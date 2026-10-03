@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://agroscope.com.tr/</loc></url>
-  <url><loc>https://agroscope.com.tr/tarim-dronlari.html</loc></url>
-  <url><loc>https://agroscope.com.tr/iha-sistemleri.html</loc></url>
-  <url><loc>https://agroscope.com.tr/bldc-motor.html</loc></url>
-  <url><loc>https://agroscope.com.tr/terrasat.html</loc></url>
-  <url><loc>https://agroscope.com.tr/hakkimizda.html</loc></url>
-  <url><loc>https://agroscope.com.tr/iletisim.html</loc></url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://erdoganenestr.github.io/agroscope-site/index.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/hakkimizda.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/hizmetlerimiz.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/urunlerimiz.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/referanslarimiz.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/blog.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/iletisim.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/kariyer.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/tarim-dronlari.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/iha-sistemleri.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/bldc-motor.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/terrasat.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/blog-gorev-planlama.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/blog-bldc-motor.html</loc></url><url><loc>https://erdoganenestr.github.io/agroscope-site/blog-veri.html</loc></url></urlset>
