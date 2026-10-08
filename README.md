@@ -1,9 +1,3 @@
-# AgroScope sitesi
+# AgroScope web sitesi
 
-Referans tasarımından esinlenerek sıfırdan yazılmış çok sayfalı statik site. GitHub Pages üzerinden `agroscope.com.tr` alan adında yayınlanır.
-
-## Sayfalar
-
-Ana sayfa, ürünler ve dört ürün alanı, çözümler, teknoloji, sektörler, hakkımızda, iletişim, blog ve kurumsal yardımcı sayfalar. İletişim formu e-posta uygulamasında taslak oluşturur; sunucuya veri göndermez.
-
-Tüm ürün ve arazi görselleri konsept amaçlıdır. Performans değeri, referans adı veya doğrulanmamış model bilgisi gösterilmez.
+Kullanıcının sağladığı on panelli tasarım referansındaki sayfa yapısı temel alınarak yeniden oluşturuldu. Ürün ve arazi görselleri temsili konsepttir. Gerçek ürün modeli, performans değeri, NDVI ölçümü veya müşteri referansı iddia edilmez. İletişim formu e-posta uygulamasında taslak açar.
